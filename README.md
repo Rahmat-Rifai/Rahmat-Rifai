@@ -24,14 +24,14 @@
 
 ### projects
 
-| repo | what it actually is |
+| repo | what's in it |
 | --- | --- |
-| [web](https://github.com/Rahmat-Rifai/web) | Personal portfolio — React 19 + TypeScript + Vite, WebGL through Three.js (`@react-three/fiber`), GSAP, Lenis. |
-| [Exam_Web](https://github.com/Rahmat-Rifai/Exam_Web) | **UjianKu** — school exam platform: role login (student/admin), admin-issued exam tokens, auto-grading across 45 MCQs in 3 subjects, countdown timer, monochrome UI. |
-| [sav](https://github.com/Rahmat-Rifai/sav) | Arduino robotics — Bluetooth RC car (HC-05 / L298 / HC-SR04) + a Leanbot (ESP32) driver with encoders, line sensors, and ultrasonic. |
-| [bot](https://github.com/Rahmat-Rifai/bot) | Discord RPG automation in Python — command loops, dungeon solution scanning, captcha handling, rate-limit retry, logging. |
-| [roadmap.sh-project](https://github.com/Rahmat-Rifai/roadmap.sh-project) | roadmap.sh practice — single-page CV and frontend project builds. |
-| [web_2](https://github.com/Rahmat-Rifai/web_2) | Static web sandbox — lightweight HTML/CSS experiments. |
+| [web](https://github.com/Rahmat-Rifai/web) | My portfolio. React 19 + TypeScript + Vite, with WebGL scenes in Three.js (`@react-three/fiber`), plus GSAP and Lenis for smooth scroll. |
+| [Exam_Web](https://github.com/Rahmat-Rifai/Exam_Web) | UjianKu — an exam platform I built for school. Students and admins log in separately, the admin hands out exam tokens, and it auto-grades 45 multiple-choice questions across 3 subjects with a countdown timer. Monochrome UI. |
+| [sav](https://github.com/Rahmat-Rifai/sav) | Arduino robotics from a class project: a Bluetooth RC car (HC-05, L298, HC-SR04) and a Leanbot (ESP32) driver with encoders, line sensors, and an ultrasonic. |
+| [bot](https://github.com/Rahmat-Rifai/bot) | A Python bot that automates a Discord RPG — loops commands, scans dungeon solutions, catches captchas, and retries on rate limits. |
+| [roadmap.sh-project](https://github.com/Rahmat-Rifai/roadmap.sh-project) | Frontend practice with roadmap.sh — a single-page CV and a few small builds. |
+| [web_2](https://github.com/Rahmat-Rifai/web_2) | A sandbox for static web experiments in plain HTML and CSS. |
 
 ### now
 
