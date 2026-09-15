@@ -1,26 +1,44 @@
-<div align="center">
-  <!-- Animated Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Fai7is&fontSize=34&fontColor=ffffff&fontAlignY=35&color=gradient&autoColor=false&gradientColor=0:111827,50:312e81,100:00f0ff&animation=fadeIn" alt="Fai7is" />
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Fai7is — animated hero">
+</p>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00f0ff&center=true&vCenter=true&width=500&lines=Student+in+Yogyakarta;Learning+web+development%2C+C%2B%2B%2C+Python;Building+projects+with+TypeScript" alt="Typing animation" />
+<p align="center">
+  <img src="assets/typing.svg" width="100%" alt="typing animation">
+</p>
 
-  <!-- Tech Stack -->
-  <div style="margin: 20px 0;">
-    <h3>Tech Stack</h3>
-    <div style="font-family: monospace; font-size: 16px; color: #aaa;">
-      <code>HTML · CSS · JavaScript · TypeScript · Python · C++ · MySQL · Git</code>
-    </div>
-  </div>
+<p align="center">
+  <img src="assets/marquee.svg" width="100%" alt="code build break learn ship repeat">
+</p>
 
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/Rahmat-Rifai/Rahmat-Rifai/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+### stack
 
-  <!-- Repositories Link -->
-  <div style="margin: 20px 0;">
-    <a href="https://github.com/Rahmat-Rifai?tab=repositories" style="color: #00f0ff; text-decoration: none; font-weight: bold;">Browse my repositories →</a>
-  </div>
+<p align="center">
+  <img src="assets/tech.svg" width="100%" alt="tech stack">
+</p>
 
-  <!-- Last Updated -->
-  <div style="font-size: 12px; color: #666;">Last updated: September 2026</div>
-</div>
+### signal
+
+<p align="center">
+  <img src="assets/activity.svg" width="100%" alt="recent activity signal">
+</p>
+
+### projects
+
+| repo | what it actually is |
+| --- | --- |
+| [web](https://github.com/Rahmat-Rifai/web) | Personal portfolio — React 19 + TypeScript + Vite, WebGL through Three.js (`@react-three/fiber`), GSAP, Lenis. |
+| [Exam_Web](https://github.com/Rahmat-Rifai/Exam_Web) | **UjianKu** — school exam platform: role login (student/admin), admin-issued exam tokens, auto-grading across 45 MCQs in 3 subjects, countdown timer, monochrome UI. |
+| [sav](https://github.com/Rahmat-Rifai/sav) | Arduino robotics — Bluetooth RC car (HC-05 / L298 / HC-SR04) + a Leanbot (ESP32) driver with encoders, line sensors, and ultrasonic. |
+| [bot](https://github.com/Rahmat-Rifai/bot) | Discord RPG automation in Python — command loops, dungeon solution scanning, captcha handling, rate-limit retry, logging. |
+| [roadmap.sh-project](https://github.com/Rahmat-Rifai/roadmap.sh-project) | roadmap.sh practice — single-page CV and frontend project builds. |
+| [web_2](https://github.com/Rahmat-Rifai/web_2) | Static web sandbox — lightweight HTML/CSS experiments. |
+
+### now
+
+<p align="center">
+  <img src="assets/pulse.svg" alt="status">
+</p>
+
+<p align="center">
+  <sub>Yogyakarta, Indonesia · <a href="https://github.com/Rahmat-Rifai">github.com/Rahmat-Rifai</a></sub>
+</p>
