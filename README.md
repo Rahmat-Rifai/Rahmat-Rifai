@@ -1,44 +1,24 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Fai7is — animated hero">
-</p>
+<p align="right"><img src="assets/art.svg" width="158" alt="hand-drawn sketch of a volcano with smoke rising"></p>
 
-<p align="center">
-  <img src="assets/typing.svg" width="100%" alt="typing animation">
-</p>
+**rahmat-rifai** · yogyakarta, indonesia
 
-<p align="center">
-  <img src="assets/marquee.svg" width="100%" alt="code build break learn ship repeat">
-</p>
+# Fai7is
 
-### stack
-
-<p align="center">
-  <img src="assets/tech.svg" width="100%" alt="tech stack">
-</p>
-
-### signal
-
-<p align="center">
-  <img src="assets/activity.svg" width="100%" alt="recent activity signal">
-</p>
+student, maker, occasional automaton. i build web things in typescript, wire up arduino robots in c++, and let a python script run my discord rpgs — usually all at once.
 
 ### projects
 
-| repo | what's in it |
-| --- | --- |
-| [web](https://github.com/Rahmat-Rifai/web) | My portfolio. React 19 + TypeScript + Vite, with WebGL scenes in Three.js (`@react-three/fiber`), plus GSAP and Lenis for smooth scroll. |
-| [Exam_Web](https://github.com/Rahmat-Rifai/Exam_Web) | UjianKu — an exam platform I built for school. Students and admins log in separately, the admin hands out exam tokens, and it auto-grades 45 multiple-choice questions across 3 subjects with a countdown timer. Monochrome UI. |
-| [sav](https://github.com/Rahmat-Rifai/sav) | Arduino robotics from a class project: a Bluetooth RC car (HC-05, L298, HC-SR04) and a Leanbot (ESP32) driver with encoders, line sensors, and an ultrasonic. |
-| [bot](https://github.com/Rahmat-Rifai/bot) | A Python bot that automates a Discord RPG — loops commands, scans dungeon solutions, catches captchas, and retries on rate limits. |
-| [roadmap.sh-project](https://github.com/Rahmat-Rifai/roadmap.sh-project) | Frontend practice with roadmap.sh — a single-page CV and a few small builds. |
-| [web_2](https://github.com/Rahmat-Rifai/web_2) | A sandbox for static web experiments in plain HTML and CSS. |
+- **[web](https://github.com/Rahmat-Rifai/web)**: my portfolio. react 19 + vite, webgl scenes in three.js, gsap for motion.
+- **[Exam_Web](https://github.com/Rahmat-Rifai/Exam_Web)**: ujianku, a school exam platform. separate student/admin logins, admin-issued tokens, auto-grades 45 questions across 3 subjects with a timer.
+- **[sav](https://github.com/Rahmat-Rifai/sav)**: arduino robotics from class — a bluetooth rc car (hc-05 / l298 / hc-sr04) and a leanbot (esp32) driver.
+- **[bot](https://github.com/Rahmat-Rifai/bot)**: python discord rpg automation. command loops, dungeon scanning, captcha handling, rate-limit retries.
+- **[roadmap.sh-project](https://github.com/Rahmat-Rifai/roadmap.sh-project)**: frontend practice — a single-page cv and small builds.
+- **[web_2](https://github.com/Rahmat-Rifai/web_2)**: a sandbox for static html/css experiments.
 
 ### now
 
-<p align="center">
-  <img src="assets/pulse.svg" alt="status">
-</p>
+<p><img src="assets/now.svg" width="340" alt="status: building in the open"></p>
 
-<p align="center">
-  <sub>Yogyakarta, Indonesia · <a href="https://github.com/Rahmat-Rifai">github.com/Rahmat-Rifai</a></sub>
-</p>
+---
+
+github · [github.com/Rahmat-Rifai](https://github.com/Rahmat-Rifai)
