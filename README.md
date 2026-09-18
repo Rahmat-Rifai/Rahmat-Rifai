@@ -4,7 +4,7 @@
 
   <!-- 2. Intro Efek Mengetik -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Student;Building+web+apps+with+TypeScript+%26+Next.js;Automating+tools+with+Python+%26+C%23;Wiring+up+robotics+with+C%2B%2B+%26+Arduino" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Student;Building+web+apps+with+TypeScript+%26+Next.js;Developing+desktop+tools+with+C%23+%26+.NET;Writing+automation+scripts+with+Python" alt="Typing Intro" />
   </a>
 
   <p>
@@ -32,7 +32,7 @@
 
 - 📍 Berdomisili di **Yogyakarta, Indonesia**
 - 🎓 *Student, maker, occasional automaton.*
-- 🛠️ Membangun aplikasi web dengan **TypeScript & Next.js/React**, membuat otomasi desktop & Discord bot dengan **C#/.NET & Python**, dan merangkai robot Arduino dengan **C++**.
+- 🛠️ Membangun aplikasi web dengan **TypeScript & Next.js/React**, serta membuat otomasi desktop & Discord bot dengan **C#/.NET & Python**.
 - 🚀 Sedang aktif eksplorasi proyek open-source dan otomasi sistem.
 
 <div align="center">
@@ -46,7 +46,7 @@
 <div align="center">
   <!-- 3. Badge Tech Stack -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,py,cs,dotnet,cpp,arduino,git,powershell,html,css&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,py,cs,dotnet,git,powershell,html,css&theme=dark" alt="My Skills" />
   </a>
 </div>
 
