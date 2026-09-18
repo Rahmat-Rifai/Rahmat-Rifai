@@ -52,15 +52,6 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  <!-- 6. Trophy Pencapaian -->
-  <img src="https://github-trophies.vercel.app/?username=Rahmat-Rifai&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
