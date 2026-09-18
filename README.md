@@ -21,19 +21,7 @@
 
 ---
 
-### About Me
 
-<p align="right">
-  <img src="assets/art.svg" width="140" alt="hand-drawn sketch of a volcano with smoke rising" />
-</p>
-
-Berdomisili di Yogyakarta. Aku bikin aplikasi web pakai TypeScript dan React, alat desktop Windows dengan C#/.NET, dan bot Discord dengan Python. Beberapa proyek: UjianKu (platform ujian sekolah online), AssetLens (website asset scanner), windows-proxy-pool (30 proxy HTTP lokal di Windows).
-
-<div align="center">
-  <img src="assets/now.svg" width="320" alt="status: building in the open" />
-</div>
-
----
 
 ### Tech Stack
 
