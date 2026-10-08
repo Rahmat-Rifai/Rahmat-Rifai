@@ -1,71 +1,44 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=200&section=header&text=Hi%20There,%20I'm%20Fai%20👋&fontSize=42&fontColor=7aa2f7&animation=fadeIn" width="100%" alt="Header Banner" />
+# Rahmat Rifai (Fai)
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=student,+maker,+occasional+automaton.;i+build+web+things+in+typescript;automate+windows+apps+with+c%23;and+let+python+run+my+discord+rpgs" alt="Typing Intro" />
-  </a>
+Developer based in Yogyakarta, Indonesia. Building web applications, desktop utilities, and backend automation systems.
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Rahmat-Rifai&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
-  </p>
-
-  <p>
-    <a href="mailto:rahmatrifai1788@gmail.com">
-      <img src="https://img.shields.io/badge/Email-rahmatrifai1788%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    </a>
-    <a href="https://github.com/Rahmat-Rifai">
-      <img src="https://img.shields.io/badge/GitHub-Rahmat--Rifai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
-  </p>
-</div>
+[![Email](https://img.shields.io/badge/Email-rahmatrifai1788%40gmail.com-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmatrifai1788@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rahmat--Rifai-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/Rahmat-Rifai)
 
 ---
 
+### What I Do
 
+- **Web Development**: Full-stack web services using TypeScript, React, Next.js, and Node.js.
+- **Desktop & Systems**: Windows utility tools and system scripts using C# / .NET and PowerShell.
+- **Backend & Automation**: Automation scripts, bot engines, and media APIs built with Python.
+
+---
+
+### Featured Projects
+
+- [`media-api`](https://github.com/Rahmat-Rifai/media-api) — Hardened persistent media extraction service using FastAPI, yt-dlp, and SQLite WAL.
+- [`fai-Website_Asset_Finder`](https://github.com/Rahmat-Rifai/fai-Website_Asset_Finder) — Next.js tool that scans websites for assets, metadata, color palettes, and technologies.
+- [`fai-ultr`](https://github.com/Rahmat-Rifai/fai-ultr) — Discord RPG bot engine that runs game cycles, handles rate limits, and stops on CAPTCHA signals.
+- [`fai-backButton`](https://github.com/Rahmat-Rifai/fai-backButton) — C# desktop tool to remap mouse buttons on Windows with per-app and per-website rules.
+- [`fai-proxy`](https://github.com/Rahmat-Rifai/fai-proxy) — PowerShell management suite for running and monitoring 30 authenticated local 3proxy instances.
+
+---
 
 ### Tech Stack
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,py,cs,dotnet,git,powershell,html,css&theme=dark" alt="My Skills" />
-  </a>
-</div>
+- **Languages**: TypeScript, JavaScript, Python, C#, PowerShell
+- **Frameworks & Web**: React, Next.js, Node.js, Tailwind CSS, FastAPI
+- **Tools & Environments**: Linux, Windows, Git, Cloudflare Tunnels
 
 ---
 
-### GitHub Activity & Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Rahmat-Rifai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rahmat-Rifai&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=Rahmat-Rifai&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak Stats" />
-  </p>
-</div>
-
----
-
-### Contribution Snake
+### Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahmat-Rifai/Rahmat-Rifai/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahmat-Rifai/Rahmat-Rifai/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/Rahmat-Rifai/Rahmat-Rifai/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rahmat-Rifai/Rahmat-Rifai/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
