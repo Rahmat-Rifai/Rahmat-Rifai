@@ -17,11 +17,13 @@ Developer based in Yogyakarta, Indonesia. Building web applications, desktop uti
 
 ### Featured Projects
 
+- [`IdleFarmMacro`](https://github.com/Rahmat-Rifai/IdleFarmMacro) — Windows desktop macro for automating Discord IDLE FARM claims via .NET 8, WebView2, and hardware-level CDP input.
 - [`media-api`](https://github.com/Rahmat-Rifai/media-api) — Hardened persistent media extraction service using FastAPI, yt-dlp, and SQLite WAL.
 - [`fai-Website_Asset_Finder`](https://github.com/Rahmat-Rifai/fai-Website_Asset_Finder) — Next.js tool that scans websites for assets, metadata, color palettes, and technologies.
-- [`fai-ultr`](https://github.com/Rahmat-Rifai/fai-ultr) — Discord RPG bot engine that runs game cycles, handles rate limits, and stops on CAPTCHA signals.
 - [`fai-backButton`](https://github.com/Rahmat-Rifai/fai-backButton) — C# desktop tool to remap mouse buttons on Windows with per-app and per-website rules.
+- [`fai-ultr`](https://github.com/Rahmat-Rifai/fai-ultr) — Discord RPG bot engine that runs game cycles, handles rate limits, and stops on CAPTCHA signals.
 - [`fai-proxy`](https://github.com/Rahmat-Rifai/fai-proxy) — PowerShell management suite for running and monitoring 30 authenticated local 3proxy instances.
+- [`fai-web`](https://github.com/Rahmat-Rifai/fai-web) — Personal portfolio site built with React 19, TypeScript, Vite, and Tailwind CSS.
 
 ---
 
