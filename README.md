@@ -8,6 +8,6 @@ Developer based in Yogyakarta, Indonesia. Building web applications, desktop uti
 ---
 
 ### What I Do
- **doing whtver i want
+ **doing whtver i want**
 
-
+ ---
